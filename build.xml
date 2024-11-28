@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<project name="" default="all">
+<project name="SFTPFileUpload" default="all">
 
   <property name="Extensions.dir" location="out" />
   <property name="AndroidRuntime-classes.dir" location="build/classes"/>
